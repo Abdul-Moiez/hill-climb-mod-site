@@ -14,6 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
+      <head>
+        <meta name="google-site-verification" content="OrMDnIkcDMY9HxBifGiONTKjRygyo4rbQJcBw_9kzac" />
+      </head>
       <body className={`${inter.variable} font-sans min-h-screen flex flex-col bg-[var(--color-bg-dark)] text-[var(--color-text-primary)] antialiased`}>
         {children}
       </body>
