@@ -109,8 +109,9 @@ export default function DownloadOverlay({ isOpen, onClose }: DownloadOverlayProp
             </div>
           ) : (
             <a 
-              href="/hill-climb-mod.apk"
-              download="hill-climb-mod.apk"
+              href="https://drive.google.com/uc?export=download&id=15h1Pxx6qxj_58n1fNKM8sBVc2JrwEV4Y"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group flex flex-col items-center justify-center gap-2 bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-400 hover:to-emerald-500 text-white px-10 py-5 rounded-2xl font-bold text-xl transition-all shadow-[0_0_40px_rgba(34,197,94,0.4)] hover:shadow-[0_0_60px_rgba(34,197,94,0.6)] transform hover:-translate-y-1 w-full max-w-[280px]"
             >
               <div className="flex items-center gap-3">
