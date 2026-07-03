@@ -31,7 +31,7 @@ export default function SpecsTable() {
                 </tr>
                 <tr className="border-b border-slate-700/30 hover:bg-white/[0.02] transition-colors">
                   <td className="py-4 px-6 text-slate-400 font-medium">Size</td>
-                  <td className="py-4 px-6 text-white font-semibold">~90 MB</td>
+                  <td className="py-4 px-6 text-white font-semibold">118.3 MB</td>
                 </tr>
                 <tr className="border-b border-slate-700/30 hover:bg-white/[0.02] transition-colors">
                   <td className="py-4 px-6 text-slate-400 font-medium">Mod Features</td>
