@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from 'react';
-import { ChevronDown } from 'lucide-react';
+import { ChevronDown, CheckCircle2 } from 'lucide-react';
 import ScrollReveal from './ScrollReveal';
 
 const seoFaqs = [
@@ -36,6 +36,29 @@ export default function SEOContent() {
               This special modification provides maximum <strong>hill climb racing money</strong> to unlock all cars and stages instantly, 
               giving you a seamless and unrestricted racing adventure without the grind.
             </p>
+
+            <div className="my-6 p-5 rounded-2xl bg-slate-800/20 border border-slate-700/30">
+              <h3 className="text-lg font-semibold text-white mb-4">Key Features of the Mod:</h3>
+              <ul className="space-y-3 text-slate-300">
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="text-green-400 mt-0.5 flex-shrink-0" size={18} />
+                  <span><strong>Unlimited Money & Gems</strong> to upgrade vehicles instantly.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="text-green-400 mt-0.5 flex-shrink-0" size={18} />
+                  <span><strong>All Cars Unlocked</strong> (including Monster Truck, Tank, and Super Offroad).</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="text-green-400 mt-0.5 flex-shrink-0" size={18} />
+                  <span><strong>All Stages Unlocked</strong> to explore different terrains right from the start.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="text-green-400 mt-0.5 flex-shrink-0" size={18} />
+                  <span><strong>Ad-Free Experience</strong> for uninterrupted gameplay.</span>
+                </li>
+              </ul>
+            </div>
+
             <p className="text-slate-300 leading-relaxed">
               If you are looking for the highly sought-after <strong>hill climb racing mod apk 1.70.0 - unlimited money</strong>, 
               you have found it. Upgrade your engine, suspension, tires, and 4WD to the max and dominate every terrain!
