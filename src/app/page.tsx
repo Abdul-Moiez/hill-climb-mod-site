@@ -1,5 +1,6 @@
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import SEOContent from '@/components/SEOContent';
 import Features from '@/components/Features';
 import SpecsTable from '@/components/SpecsTable';
 import Screenshots from '@/components/Screenshots';
@@ -13,6 +14,7 @@ export default function Home() {
       <Header />
       <main className="flex-1">
         <Hero />
+        <SEOContent />
         <Screenshots />
         <Features />
         <SpecsTable />
